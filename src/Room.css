@@ -1,0 +1,24 @@
+.div {
+    height: 200px;
+}
+.lit {
+    background-color: white;
+    color: black;
+}
+.dark {
+    background-color: black;
+    color: white;
+}
+.btn {
+    padding: 5px;
+    margin: 3px;
+    background-color: royalblue;
+    color: white;
+}
+.temp {
+    margin-top: 5px;
+    padding-top: 40px;
+    height: 80px;
+    background-color: gray;
+    color: white;
+}
